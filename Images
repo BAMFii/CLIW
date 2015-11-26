@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>A Pen by  Captain Anonymous</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <form action="demo_form.asp">
+  <span class="text">Browse</span>
+  <input type="file" id="uploadFile" class="inputbox" />
+  <br>
+  <span class="text">Link</span>
+  <input type="text" name="LastName" class="inputbox">
+  <br>
+  <input type="submit" value="Submit" class="button">
+</form>
+    
+    
+    
+    
+    
+  </body>
+</html>
+
+
+body {
+  margin: 0;
+  padding: 0;
+  color: white ;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: url(http://2.bp.blogspot.com/-Xmo26BMqg5Q/UihlqVwTwgI/AAAAAAAAAv0/V-Rrgm0V6oo/s1600/Top+10+best+Simple+Awesome+Background+Images+for+Your+Website+or+Blog3.jpg);
+  
+}
+
+.hidden {
+    display:none;
+}
+.button {
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 5px;
+    background: #777;
+    color: #fff;
+    width:75px;
+}
+
+.button:hover {
+    background: #333;
+    cursor: pointer;
+}
+.inputbox {
+  margin:5px;
+}
+.text{
+  margin:5px;
+}
