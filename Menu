@@ -1,0 +1,40 @@
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>A Pen by  Captain Anonymous</title>
+    
+    
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <div class="menu-wrap">
+  <header>
+    <nav class="menu">
+        <ul class="clearfix">
+            <li><a href="#">Images</a></li>
+            <li>
+                <a href="#">Shape</a>
+              
+            </li>
+            <li><a href="#">Text</a></li>
+            <li class="current-item"><a href="#">Spotlight</a></li>
+            <li><a href="#">Tag</a></li>
+        </ul>
+    </nav>
+</div>
+</header>
+    
+    
+    
+    
+    
+  </body>
+</html>
