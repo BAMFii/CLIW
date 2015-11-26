@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>A Pen by  Captain Anonymous</title>
+    
+    
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <div class="text">Choose shape</div>
+<div id="navcontainer">
+<ul>
+<li><a href="#">Circle</a></li>
+<li><a href="#">Rectangle</a></li>
+<li><a href="#">Free Drawing</a></li>
+</ul>
+</div>
+    
+    
+    
+    
+    
+  </body>
+</html>
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  color: Navy ;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: url(http://2.bp.blogspot.com/-Xmo26BMqg5Q/UihlqVwTwgI/AAAAAAAAAv0/V-Rrgm0V6oo/s1600/Top+10+best+Simple+Awesome+Background+Images+for+Your+Website+or+Blog3.jpg);
+ 
+}
+
+#navcontainer{
+  position:relative;
+  top: 40px;
+}
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+.text{
+  text-align: center;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+text-decoration: none;
+padding: .2em 1em;
+color: #fff;
+background-color: #036;
+}
+
+#navcontainer ul li a:hover
+{
+color: #fff;
+background-color: #369;
+}
